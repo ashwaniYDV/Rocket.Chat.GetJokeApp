@@ -1,0 +1,15 @@
+{
+    "id": "0a711130-4a7b-4a43-a8d5-b582fcbe5ac0",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Ashwani",
+        "homepage": "https://rocket.chat",
+        "support": "support@rocket.chat"
+    },
+    "name": "getjoke",
+    "nameSlug": "getjoke",
+    "classFile": "GetjokeApp.ts",
+    "description": "Get random joke from an external api by a slashcommand"
+}
